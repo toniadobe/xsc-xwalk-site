@@ -7,7 +7,7 @@ Codebase for the fictional WKND site, showcasing the capabilities of Adobe's Edg
 - Document based content authoring
 
 ## Environments
-- Preview: [https://main--wknd-xwalk--adobe-rnd.hlx.page/](https://main--xsc-xwalk-site--toniadobe.hlx.page/us/en/)
+- Preview: [https://main--wknd-xwalk--adobe-rnd.hlx.page/us/en/](https://main--xsc-xwalk-site--toniadobe.hlx.page/us/en/)
 - Live: https://main--xsc-xwalk-site--toniadobe.hlx.live/us/en/
 
 ## Installation
